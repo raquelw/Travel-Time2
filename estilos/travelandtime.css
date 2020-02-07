@@ -1,0 +1,55 @@
+body{
+	background: -webkit-linear-gradient(0deg, #ffd46e 30%, #4e9aff 100%);
+	overflow: hidden;
+	font-family: "Sans-Serif";
+}
+
+footer{
+	font-family: Verdana;
+	color:#0012fc;
+	text-align: center;
+}
+
+#logo{
+	position: relative;
+	top: 40px;
+	margin-left: 10px;
+}
+
+#menu{
+	position: absolute;
+	top: -140px;
+	right: -520px;
+	
+}
+
+#fondo{
+	text-align: center;
+}
+
+#nube{
+	position:relative;
+	float: left;
+	margin-top: -70px;
+	margin-left: 20px;
+}
+
+#avion{
+	float : right;
+	margin-top : -375px;
+	margin-right: -200px;
+}
+
+#avion:hover{
+	float: right;
+	position: relative;
+	top: -10px;
+	right: 250px;
+}
+
+h1{
+	position: relative;
+	top: 40px;
+	margin-left: 130px;
+	/* text-align: center; */
+}
